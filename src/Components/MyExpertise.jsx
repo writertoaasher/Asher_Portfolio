@@ -17,8 +17,8 @@ const MyExpertise = () => {
               data-aos="fade-up" data-aos-duration={1200} data-aos-delay={100}
               >
                 <FaClone className='icon' />
-                <h3>Product Design</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                <h3>Funnel Builder</h3>
+                <p>Crafting high-level funnels with precision, I architect pathways that seamlessly guide from interest to conversion, sculpting digital journeys that elevate engagement and drive results.</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-6">
