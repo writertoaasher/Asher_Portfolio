@@ -37,7 +37,8 @@ const MySkills = () => {
               data-aos="fade-in" data-aos-duration={1200} data-aos-delay={500}
               ><img src="/images/skills-img4.webp" alt="image" />
               </div>
-            </div
+            </div>
+
           </div>
         </div>
       </div>
