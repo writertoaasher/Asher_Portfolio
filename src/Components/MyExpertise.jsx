@@ -27,7 +27,7 @@ const MyExpertise = () => {
               >
                 <FaDesktop className="icon" />
                 <h3>Web Design</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+                <p>"Proficient Web Programmer experienced in leveraging the MERN (MongoDB, Express.js, React.js, Node.js) stack to develop dynamic and scalable web applications. Skilled in crafting responsive user interfaces, implementing robust backend solutions, and optimizing performance for seamless user experiences. Dedicated to staying current with emerging technologies and best practices in web development to deliver innovative solutions that meet client needs and exceed expectations.".</p>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-6">
