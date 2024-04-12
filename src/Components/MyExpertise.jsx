@@ -30,24 +30,7 @@ const MyExpertise = () => {
                 <p>"Proficient Web Programmer experienced in leveraging the MERN (MongoDB, Express.js, React.js, Node.js) stack to develop dynamic and scalable web applications. Skilled in crafting responsive user interfaces, implementing robust backend solutions, and optimizing performance for seamless user experiences. Dedicated to staying current with emerging technologies and best practices in web development to deliver innovative solutions that meet client needs and exceed expectations.".</p>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 col-sm-6">
-              <div className="pp-expertise-box"
-              data-aos="fade-up" data-aos-duration={1200} data-aos-delay={300}
-              >
-                <FaBandcamp className="icon bg-f3f9e7" />
-                <h3>Branding &amp; Logo</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-sm-6">
-              <div className="pp-expertise-box"
-              data-aos="fade-up" data-aos-duration={1200} data-aos-delay={400}
-              >
-                <FaPrint className="icon" />
-                <h3>Print Design</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
-              </div>
-            </div>
+       
             <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="pp-expertise-box"
               data-aos="fade-up" data-aos-duration={1200} data-aos-delay={500}
